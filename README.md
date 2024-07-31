@@ -1,4 +1,4 @@
-# NLW Spacetime
+# NLW Journey
 <br>
 <p align="center">
   <img src="./assets/journey.png" alt="Next Level Week Journey Logo"/>
