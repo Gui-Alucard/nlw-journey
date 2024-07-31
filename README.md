@@ -4,7 +4,7 @@
   <img src="./assets/journey.png" alt="Next Level Week Journey Logo"/>
 </p>
 <h4 align="center"> 
-  🚀 The <strong>Journey</strong> project on the <a href="https://lp.rocketseat.com.br/nlw">Next Level Week</a> by Rocketseat. 🚀
+  🚀 The <strong>Journey</strong> project on the <a href="https://app.rocketseat.com.br/me/guialucard">Next Level Week</a> by Rocketseat. 🚀
 </h4>
 <br>
 <p align="center">
